@@ -1,0 +1,10 @@
+.container-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  margin-top: 7em;
+  align-items: center;
+  height: 100vh; /* Sets the height of the container to the full height of the viewport */
+
+
+}
